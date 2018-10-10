@@ -1,7 +1,9 @@
 body {
-    background-image: url("Forest.jpg");
-    background-color: #FFFFFF;
+    background-color: darkseagreen;
 }
-h1 {
-    background-color: #FFFFFF; opacity: 0.6;
+.photosize {
+    height: 200px
+}
+.shadow {
+    box-shadow: 3px 3px rgba(49, 49, 49, 0.24);
 }
